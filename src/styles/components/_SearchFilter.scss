@@ -1,0 +1,28 @@
+
+.left_container_search_filter {
+    background: #fff;
+    width: 300px;
+    height: 50px;
+    margin: 15px 250px 10px 75px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.SearchFilter__text{
+    color: #14171a;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 15px;
+    margin-left: 5px;
+    padding-left: 10px;
+}
+
+.showButton{
+    background: #fff;
+    margin:0;
+    border: none;
+    padding-right: 130px;
+    color: #1c94e0;
+    margin-top: 10px;
+}
