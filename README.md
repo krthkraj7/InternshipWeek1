@@ -11,7 +11,6 @@ WebPack
 webpack-dev-server
 babel-core
 babel-loader
-babel-cli
 sass-loader
 style-loader
 css-loader
