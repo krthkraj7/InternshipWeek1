@@ -6,3 +6,20 @@ $background-color: #1da1f2;
 
 $left-padding: 75px;
 
+
+//Padding space for left container
+.leftContainer{
+    margin:20px 0  0 75px ;
+    float: left;
+    // border-style: solid; 
+    width: 300px;
+    height:850px;
+}
+
+.middleContainer{
+    margin:10px 0  0 10px ;
+    float: left;
+    // border-style: solid; 
+    width: 600px;
+    height:850px;
+}

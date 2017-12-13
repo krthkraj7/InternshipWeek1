@@ -11,7 +11,12 @@ module.exports = {
         loader: 'babel-loader',
         test: /\.js$/,
         exclude: /node_modules/
-    },{
+    },
+    {
+        test: /\.(jpe?g|png|gif|svg)$/i, 
+        loader: "url-loader?name=components/images/[name].[ext]"
+    },    
+    {
         test: /\.scss$/,
         use: [
             'style-loader',

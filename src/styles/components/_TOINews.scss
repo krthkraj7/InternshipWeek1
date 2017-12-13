@@ -1,0 +1,83 @@
+.TOINewsContainer{
+    background: #fff;
+    width: 600px;
+    height: 480px;
+}
+
+.makeFlex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.TopText{
+    color: #14171a;
+    font-size: 18px;
+    font-weight: bold;   
+}
+
+
+.makeFlex a{
+color: #1da1f2;
+font-size: 12px;
+font-weight: normal;
+text-decoration: none;
+background: transparent;
+}
+
+.headLink{
+    margin-top:10px;
+    text-decoration: none;
+    display: block;
+    font-size: 18px;
+    line-height: 24px;
+    word-wrap: break-word;
+    font-weight: bold;
+    color: #14171a;
+    max-height: 48px;
+    padding: 0 5px 0 5px;
+}
+
+.TOIText{
+color: #66757f;
+display: block;
+font-size: 14px;
+line-height: 20px;
+// max-height: 40px;
+overflow: hidden;
+width: 100%;
+word-wrap: break-word;
+padding: 0 5px 0 5px;
+}
+
+.TOINewsContainer a hover{
+text-decoration: underline;
+}
+
+.TOIIcon{
+    border-radius: 50%;
+    height: 16px;
+    margin-right: 5px;
+    position: relative;
+    top: 3px;
+    margin-left:5px;
+    // width: 15;
+}
+
+.TOIText2{
+    text-decoration: none;
+    padding-left: 2px;
+    text-align: center;
+}
+
+.dateText{
+    color: #657786;
+    text-decoration: none;
+    background: transparent;
+    // text-align: right;
+    font-size: 12px;
+    margin-right: 5px;
+}
+
+.image1{
+    width: 100%;
+}
