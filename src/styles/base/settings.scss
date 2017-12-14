@@ -6,6 +6,12 @@ $background-color: #1da1f2;
 
 $left-padding: 75px;
 
+//Using the full Browser window
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+  }
 
 //Padding space for left container
 .leftContainer{

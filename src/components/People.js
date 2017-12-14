@@ -9,7 +9,7 @@ const People = () => (
 <p className="PeopleText">People </p>
 <a href="www.google.com">View all</a>
 </div>
-<div className= "makeFlex">
+<div className= "makeFlexPeople">
 <div className= "People1Container">
 <People1 />
 </div>

@@ -1,7 +1,42 @@
 .home_login{
     background: #fff;
+    display: flex;
+    justify-content: space-between;
+    height:45px;
 }
 
 .home_about{
     padding-left: $left-padding;
+}
+
+
+
+.TwitterImage{
+    width: 25px;
+    float: left;
+    padding-top: 6px;
+    margin-right:5px;
+}
+
+.home_about span{
+    padding-top: 12px;
+    float: left;
+    font-size: 13px;
+    font-weight: bolder;
+    color: #66757f;
+    padding-right: 10px;
+}
+
+.home_about button{
+    background: none;
+    border: none;
+    height:44px;
+}
+
+.AboutButton{
+    margin-bottom:4px;
+}
+
+.home_about button:hover{
+    border-bottom:solid #016caa;
 }
