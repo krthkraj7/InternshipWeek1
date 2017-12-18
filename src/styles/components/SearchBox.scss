@@ -23,26 +23,43 @@
     justify-content: space-between;
 }
 
-// .TweetButton{
-//     margin-top: 7px;
-//     margin-right: 100px;
-//     background-color: #4AB3F4;
-//     border-color: transparent;
-//     border: 1px solid #1da1f2;
-//     color: #fff;
-//     border-radius: 100px;
-//     box-shadow: none;
-//     font-size: 14px;
-//     font-weight: bold;
-//     line-height: 20px;
-//     text-align: center;
-//     height: 35px;
-//     width: 80px;
-//     float: right;
-// }
+.TweetButton{
+    margin-top: 5px;
+    margin-left:50px;
+    float: right;
+    position: absolute;
+    white-space: nowrap;
+    color: #fff;
+    background-color: #1da1f2;
+    border: 1px solid #1da1f2;
+    background-color: #4AB3F4;
+    border-color: transparent;
+    border: 1px solid #1da1f2;
+    color: #fff;
+    border-radius: 100px;
+    box-shadow: none;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 20px;
+    text-align: center;
+    height: 35px;
+    width: 80px;
+}
 
 .AvatarProfile{
     float: right;
     margin-right: 240px;
     margin-top: 6px
 }
+
+.SearchIcon{
+    width:25px;
+    height: 25px;
+    position: absolute;
+    margin-top: 11px;
+    margin-left: 190px;
+    border-radius: 150px;
+
+}
+
+

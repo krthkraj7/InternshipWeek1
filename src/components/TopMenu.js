@@ -17,6 +17,7 @@ const TopMenu = () => (
     <button>
     <span className="AboutButton">About</span>
     </button>
+    <img className="image7"src={img6} />
     </div>
     <div className="SearchandLogin">
     <SearchBox />

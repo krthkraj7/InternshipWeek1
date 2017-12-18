@@ -11,7 +11,7 @@ const TopNews = () => (
     </div>
     <div className="TOINewsContainer">
     <img className="image1"src={img} />
-    <a class="headLink" href="https://t.co/SpkPVIsuZP">Centre indefinitely extends deadline for Aadhaar-bank account linkage - Times of India</a>
+    <a className="headLink" href="https://t.co/SpkPVIsuZP">Centre indefinitely extends deadline for Aadhaar-bank account linkage - Times of India</a>
     <p className="TOIText">NEW DELHI: The government has indefinitely extended the deadline for mandatory linking of Aadhaar with bank accounts under the Prevention of Money Laundering Act (PMLA).</p>
     <div className="makeFlex">
     <div>
